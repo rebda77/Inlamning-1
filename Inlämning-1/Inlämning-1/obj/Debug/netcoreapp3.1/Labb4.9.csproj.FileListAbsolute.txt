@@ -1,0 +1,12 @@
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/bin/Debug/netcoreapp3.1/Labb4.9.deps.json
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/bin/Debug/netcoreapp3.1/Labb4.9.runtimeconfig.json
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/bin/Debug/netcoreapp3.1/Labb4.9.runtimeconfig.dev.json
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/bin/Debug/netcoreapp3.1/Labb4.9.dll
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/bin/Debug/netcoreapp3.1/Labb4.9.pdb
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.csprojAssemblyReference.cache
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.AssemblyInfoInputs.cache
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.AssemblyInfo.cs
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.csproj.CoreCompileInputs.cache
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.dll
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.pdb
+/Users/rebeccadannerhall/Projects/Labb4.9/Labb4.9/obj/Debug/netcoreapp3.1/Labb4.9.genruntimeconfig.cache
